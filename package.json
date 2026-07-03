@@ -1,0 +1,12 @@
+{
+  "name": "ratelimit-kit",
+  "version": "0.1.0",
+  "description": "每 key（IP）滑動視窗限流 — 零依賴、in-memory。擋公開端點/公開 token 被狂打灌爆機器。",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": ["rate-limit", "sliding-window", "ddos", "throttle", "zero-dependency", "self-hosted"],
+  "author": "Jeffrey0117",
+  "license": "MIT"
+}
