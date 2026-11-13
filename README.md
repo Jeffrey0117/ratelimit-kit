@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="ratelimit-kit logo">
+</p>
+
 # ratelimit-kit 🚦
 
 **每 key（通常是 IP）滑動視窗限流。** 零依賴、in-memory。
